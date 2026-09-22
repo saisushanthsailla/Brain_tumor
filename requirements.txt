@@ -3,5 +3,5 @@ scikit-learn==1.6.1
 joblib==1.6.0
 scikit-image==0.25.2
 Pillow==11.3.0
-opencv-python
+opencv-python-headless
 streamlit
